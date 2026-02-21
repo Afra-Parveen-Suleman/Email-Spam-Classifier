@@ -42,7 +42,7 @@ The system performs text preprocessing, feature extraction using TF-IDF, and cla
 
 The dataset was analyzed to understand the distribution of Spam and Ham messages. This helps evaluate class imbalance and model bias.
 
-![Data Distribution](screenshots/data_distribution.png)
+![Data Distribution](screenshots/Data_Distribution.png)
 
 ### 📌 Data Analysis
 
@@ -50,7 +50,7 @@ Message length distribution was examined to identify structural differences betw
 Common words in Spam and Ham messages were visualized to understand discriminative vocabulary patterns.
 
 
-![Text Length Analysis](screenshots/data_analysis.png)
+![Text Length Analysis](screenshots/DataAnalysis.png)
 
 
 ### Confusion Matrix
@@ -122,6 +122,7 @@ jupyter notebook
 Parveen Suleman  
 BS Information Technology 
 Interest Area: Artificial Intelligence, NLP, Machine Learning, Computer Vision, Deep Learning
+
 
 
 
