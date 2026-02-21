@@ -44,11 +44,11 @@ The system performs text preprocessing, feature extraction using TF-IDF, and cla
 
 ### Confusion Matrix
 
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](screenshots/confusion_metrix.png)
 
 ### Model Accuracy Output
 
-![Accuracy](screenshots/accuracy.png)
+![Accuracy](screenshots/evaluation_metrix.png)
 
 ---
 
@@ -106,4 +106,5 @@ jupyter notebook
 Parveen Suleman  
 BS Information Technology 
 Interest Area: Artificial Intelligence, NLP, Machine Learning, Computer Vision, Deep Learning
+
 
