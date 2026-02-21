@@ -24,33 +24,49 @@ The system performs text preprocessing, feature extraction using TF-IDF, and cla
 
 ### 3. Machine Learning Models
 
-- Multinomial Naive Bayes
-- Bernoulli Naive Bayes
+![Data Distribution](screenshots/Algorithms.png)
 
 ---
 
 ## 📊 Model Performance
 
-| Model                   | Accuracy |
-| ----------------------- | -------- |
-| Multinomial Naive Bayes | XX%      |
-| Bernoulli Naive Bayes   | XX%      |
-
-> Replace XX% with your real accuracy results.
+![Data Distribution](screenshots/Evaluation_metrix.png)
 
 ---
 
 ## 📷 Project Screenshots
 
+## 📊 Exploratory Data Analysis (EDA)
+
+### 📌 Data Distribution
+
+The dataset was analyzed to understand the distribution of Spam and Ham messages. This helps evaluate class imbalance and model bias.
+
+![Data Distribution](screenshots/data_distribution.png)
+
+### 📌 Data Analysis
+
+Message length distribution was examined to identify structural differences between Spam and Ham messages.
+Common words in Spam and Ham messages were visualized to understand discriminative vocabulary patterns.
+
+
+![Text Length Analysis](screenshots/data_analysis.png)
+
+
 ### Confusion Matrix
 
 ![Confusion Matrix](screenshots/confusion_metrix.png)
 
-### Model Accuracy Output
 
-![Accuracy](screenshots/evaluation_metrix.png)
+## 🔍 Email Spam Prediction Demonstration
 
----
+The trained model was tested on unseen messages to evaluate real-world prediction capability.
+
+### 📌 Example Prediction Output
+
+![Prediction Output](screenshots/email_spam_prediction.png)
+
+The model successfully classifies new input messages into Spam or Ham categories based on learned textual patterns.
 
 ## 🛠 Tech Stack
 
@@ -106,5 +122,6 @@ jupyter notebook
 Parveen Suleman  
 BS Information Technology 
 Interest Area: Artificial Intelligence, NLP, Machine Learning, Computer Vision, Deep Learning
+
 
 
