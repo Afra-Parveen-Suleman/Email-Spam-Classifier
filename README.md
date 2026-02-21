@@ -98,12 +98,12 @@ jupyter notebook
 - Deploy using Flask or Streamlit
 - Implement Deep Learning model (LSTM)
 - Improve dataset size
-- Add real-time prediction interface
 
 ---
 
 ## 👩‍💻 Author
 
 Parveen Suleman  
-BS Computer Science  
-Interest Area: Artificial Intelligence, NLP, Machine Learning
+BS Information Technology 
+Interest Area: Artificial Intelligence, NLP, Machine Learning, Computer Vision, Deep Learning
+
