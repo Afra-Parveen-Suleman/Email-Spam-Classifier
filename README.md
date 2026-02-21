@@ -64,7 +64,7 @@ The trained model was tested on unseen messages to evaluate real-world predictio
 
 ### 📌 Example Prediction Output
 
-![Prediction Output](screenshots/email_spam_prediction.png)
+![Prediction Output](screenshots/Email_spam_prediction.png)
 
 The model successfully classifies new input messages into Spam or Ham categories based on learned textual patterns.
 
@@ -122,6 +122,7 @@ jupyter notebook
 Parveen Suleman  
 BS Information Technology 
 Interest Area: Artificial Intelligence, NLP, Machine Learning, Computer Vision, Deep Learning
+
 
 
 
